@@ -1,13 +1,8 @@
-Hey there, welcome to my GitHub profile! 👋
+Electronics Engineer with a focus on applied Computer Science, I integrate hardware knowledge with Computer Security expertise. I have experience as a System Deployment Engineer at TapToPay (Mohar), with a strong foundation in Cybersecurity, IT Essentials, and Embedded Systems.
 
-I'm a 💻 cybersecurity enthusiast and 🌐 network/system engineer with a passion for hacking and securing systems. My skills include programming in languages like C, C++, Python, and JavaScript 🐍, as well as hardware knowledge of devices such as Arduino, Raspberry Pi, ESP32, ESP8266, and microcontrollers 🛠️.
+Simple tools I build don't change the internet rather, they solve problems 
 
-I've completed some 🔬 exciting projects related to software-defined radio, which has given me a deep understanding of signal processing and wireless communication technologies. 📻
-
-Here on my profile, you'll find repositories of my various projects that showcase my skills and knowledge. I'm always exploring new technologies and eager to learn more about the latest trends in the industry 🔍.
-
-Feel free to explore my repositories, and if you have any questions or suggestions, don't hesitate to get in touch with me 📩. Thank you for visiting my profile and happy hacking! 😎👨‍💻
-
+I am passionate about creating tools that are both simple and impactful. In 2020, I founded HackASat Nepal to inspire top cybersecurity talent to develop the skills necessary to secure the final frontier—space. Currently, I serve as the Vice President of TheThingsNetwork (Kathmandu), where I am building a global IoT ecosystem using LoRaWAN.
 <!---
 Sayapatri/Sayapatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
